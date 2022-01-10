@@ -7,6 +7,8 @@ email:
 homepage:
   url: https://github.com/Zhuifeng414/wanglei.github.io
   text: wanglei.github.io
+phone:
+  text: (86)132-9661-8414
 ---
 
 # Lei **Wang**
