@@ -26,22 +26,18 @@ Supported arguments:
 ## Education
 
 ### **Huazhong University of Science and Technology** `2016.9 - 2019.7`
-
 ```
 Wuhan, China
 ```
-
 - Master of Engineering in Artificial Intelligent
 - Advised by [Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)
 
 ### **Wuhan University of Technology** `2012.9 - 2016.7`
-
 ```
 Wuhan, China
 ```
-
 - B.S. in Electrical Engineering & Automation
-
+- Advised by [Aihong Tang](http://sa.whut.edu.cn/yjspy/dsdw/202002/t20200222_432832.shtml)
 
 
 ## Publications
@@ -49,105 +45,53 @@ Wuhan, China
 ### [**Time-varied Accessibility and Vulnerability Analysis of High-speed Railway System in China.**](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/Publication-WangLei-QR2MSE%202019.pdf)
 **Lei W**,Min O Y, Min X.<br> 
 _International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering(QR2MSE), Hunan, China, August 6-9_ <br>
-[[PDF](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/Publication-WangLei-QR2MSE%202019.pdf)
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### [**Vulnerability Analysis of High-speed Railway.
+System under Typhoon Disasters in China**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019616534.nh&uniplatform=NZKPT&v=RBO9nE524GDjZRV-qPG4h0w7JFhgpqMy45cwUM885pbxO0kJEJT_WRQizMqvF5Pl)
+**Lei W**<br> 
+_DOI:10.27157/d.cnki.ghzku.2019.001309.(Master Dissertation)_<br>
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+### [**Energy-saving Control Methods for Classrooms in Teaching Buildings**](https://patents.google.com/patent/CN103823440A/en)
+Huazhong X, Chang S, Yingchen X, Ren Y, **Lei W**, Guibin C, et al.<br>
+_Patent No.CN103823440A._<br>
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
+## Work Experience
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+### [**Wuhan Fulu Network**](https://www.fulu.com/cn/index) `2021.1 - `
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
+_Senior Algorithm Engineer_<br>
+- Lead the project of user profile and recommendation system; achieve product recommendation for accurate crowds, bring about a 20% relative increase in CVR; 
+- Develop an intelligent customer service system based on Knowledge Graph, provide consulting services for more than 3k users every day, with satisfaction greater than 80%.
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+### [**Netease Cloud Music**] `2019.7 - 2020.8`
 
----
+_Senior Big Data Development Engineer_<br>
+- Lead the Potential Songs Mining project; provide 10 potential songs to the operation department every month for off-site promotion, bringing in 150k new users every month
+- Apply DeepWalk algorithm to explore the similarities between user logs, and use hierarchical clustering algorithm to analyze their hierarchical relationships; realize the automatic generation of traffic query code and save human resources 2 man-day/week.
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+### **Alibaba** `2018.7 - 2018.9`
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+_Algorithm Engineer (Internship)_<br>
+- Participate in the anti-cheat of user rating project of TaoPiaoPiao App, propose two rules for filtering malicious scoring ratings;
+- Participate in the payment risk Detection competition held by Alipay and won the top 1%(18/1600)
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-## Experience
-
-### **Microsoft Research** `2020.5 - 2020.8`
-
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-## Mentoring
-
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021 - Now` <br>
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
----
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Excellent employees of Wuhan Fulu Network `Jun 2021` <br>
+The 2nd Best Team in Alibaba AI Competition `May 2018` <br>
+HUST Master of Engineering Scholarship `Sep 2016 to Jun 2019` <br>
 
-## Teaching
+## Research Experience
 
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+Research Assistan, **CICR Research Group**([Prof. Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)) `2016-2019` <br>
+Teaching Assistant, **Modeling and Simulation**([Prof. Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm))  `HUST 2018` <br>
+
 
 
 ## Service
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI 2021, CHI 2022` <br>
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
 
 <!-- ### Footer
