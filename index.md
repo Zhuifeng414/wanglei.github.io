@@ -29,6 +29,7 @@ Wuhan, China
 ```
 - Master of Engineering in Artificial Intelligent
 - Advised by [Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)
+- GPA: 3.3/4.0
 
 ### **Wuhan University of Technology** `2012.9 - 2016.7`
 ```
@@ -36,6 +37,7 @@ Wuhan, China
 ```
 - B.S. in Electrical Engineering & Automation
 - Advised by [Aihong Tang](http://sa.whut.edu.cn/yjspy/dsdw/202002/t20200222_432832.shtml)
+- GPA: 3.4/4.0
 
 
 ## Publications
@@ -44,8 +46,7 @@ Wuhan, China
 **Lei W**,Min O Y, Min X.<br> 
 _International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering(QR2MSE), Hunan, China, August 6-9_ <br>
 
-### [**Vulnerability Analysis of High-speed Railway.
-System under Typhoon Disasters in China**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019616534.nh&uniplatform=NZKPT&v=RBO9nE524GDjZRV-qPG4h0w7JFhgpqMy45cwUM885pbxO0kJEJT_WRQizMqvF5Pl)
+### [**Vulnerability Analysis of High-speed Railway System under Typhoon Disasters in China**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019616534.nh&uniplatform=NZKPT&v=RBO9nE524GDjZRV-qPG4h0w7JFhgpqMy45cwUM885pbxO0kJEJT_WRQizMqvF5Pl)
 **Lei W**<br> 
 _DOI:10.27157/d.cnki.ghzku.2019.001309.(Master Dissertation)_<br>
 
@@ -56,13 +57,13 @@ _Patent No.CN103823440A._<br>
 
 ## Work Experience
 
-### [**Wuhan Fulu Network**](https://www.fulu.com/cn/index) `2021.1 - `
+### **Wuhan Fulu Network** `2021.1 - `
 
 _Senior Algorithm Engineer_<br>
 - Lead the project of user profile and recommendation system; achieve product recommendation for accurate crowds, bring about a 20% relative increase in CVR; 
 - Develop an intelligent customer service system based on Knowledge Graph, provide consulting services for more than 3k users every day, with satisfaction greater than 80%.
 
-### [**Netease Cloud Music**] `2019.7 - 2020.8`
+### **Netease Cloud Music** `2019.7 - 2020.8`
 
 _Senior Big Data Development Engineer_<br>
 - Lead the Potential Songs Mining project; provide 10 potential songs to the operation department every month for off-site promotion, bringing in 150k new users every month
@@ -83,8 +84,8 @@ HUST Master of Engineering Scholarship `Sep 2016 to Jun 2019` <br>
 
 ## Research Experience
 
-Research Assistan, **CICR Research Group**([Prof. Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)) `2016-2019` <br>
-Teaching Assistant, **Modeling and Simulation**([Prof. Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm))  `HUST 2018` <br>
+Research Assistan, **CICR Research Group** `2016-2019` <br>
+Teaching Assistant, **Modeling and Simulation** `HUST 2018` <br>
 
 
 
