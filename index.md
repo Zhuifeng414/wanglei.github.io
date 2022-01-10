@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Lei Wang
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:leiwangisreal@outlook.com
+  text: leiwangisreal@outlook.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://github.com/Zhuifeng414/wanglei.github.io
+  text: wanglei.github.io
 ---
 
-# Wode **Ni**
+# Lei **Wang**
 
 <!--
 include contact information from the front matter
@@ -23,43 +23,31 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Huazhong University of Science and Technology** `2016.9 - 2019.7`
 
 ```
-Pittsburgh, PA
+Wuhan, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Master of Engineering in Artificial Intelligent
+- Advised by [Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Wuhan University of Technology** `2012.9 - 2016.7`
 
 ```
-Carlisle, PA
+Wuhan, China
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Electrical Engineering & Automation
+
+
 
 ## Publications
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
-
+### [**Time-varied Accessibility and Vulnerability Analysis of High-speed Railway System in China.**](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/Publication-WangLei-QR2MSE%202019.pdf)
+**Lei W**,Min O Y, Min X.<br> 
+_International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering(QR2MSE), Hunan, China, August 6-9_ <br>
+[[PDF](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/Publication-WangLei-QR2MSE%202019.pdf)
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
