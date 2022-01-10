@@ -39,6 +39,10 @@ Wuhan, China
 - Advised by [Aihong Tang](http://sa.whut.edu.cn/yjspy/dsdw/202002/t20200222_432832.shtml)
 - GPA: 3.4/4.0
 
+## English Proficiency
+- GRE: 320+3.5(V152, Q168, W3.5)
+- IELTS: 6.5(L6.5, R6.5, S6.0, W6.0)
+
 
 ## Publications
 
