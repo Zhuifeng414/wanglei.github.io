@@ -28,7 +28,7 @@ Supported arguments:
 Wuhan, China
 ```
 - Master of Engineering in Artificial Intelligent
-- Advised by [Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)
+- Advised by [Prof. Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)
 - GPA: 3.3/4.0
 
 ### **Wuhan University of Technology** `2012.9 - 2016.7`
@@ -36,7 +36,7 @@ Wuhan, China
 Wuhan, China
 ```
 - B.S. in Electrical Engineering & Automation
-- Advised by [Aihong Tang](http://sa.whut.edu.cn/yjspy/dsdw/202002/t20200222_432832.shtml)
+- Advised by [Prof. Aihong Tang](http://sa.whut.edu.cn/yjspy/dsdw/202002/t20200222_432832.shtml)
 - GPA: 3.4/4.0
 
 ## English Proficiency
@@ -53,7 +53,7 @@ _International Conference on Quality, Reliability, Risk, Maintenance, and Safety
 ### [**Vulnerability Analysis of High-speed Railway System under Typhoon Disasters in China**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019616534.nh&uniplatform=NZKPT&v=RBO9nE524GDjZRV-qPG4h0w7JFhgpqMy45cwUM885pbxO0kJEJT_WRQizMqvF5Pl)
 **Lei W**<br> 
 _DOI:10.27157/d.cnki.ghzku.2019.001309.(Master Dissertation)_<br>
-[[PPT](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/2.%E7%8E%8B%E9%9B%B7-M201672511-%E7%AD%94%E8%BE%A9PPT_eng.pdf)]
+[[Abstract](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/Abstract_master_dissertation.pdf)][[PPT](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/2.%E7%8E%8B%E9%9B%B7-M201672511-%E7%AD%94%E8%BE%A9PPT_eng.pdf)]
 
 
 ### [**Energy-saving Control Methods for Classrooms in Teaching Buildings**](https://patents.google.com/patent/CN103823440A/en)
@@ -62,7 +62,7 @@ _Patent No.CN103823440A._<br>
 
 ## Work Experience
 
-### **Wuhan Fulu Network** `2021.1 - `
+### **Wuhan Fulu Network** `2021.1 - Present`
 
 _Senior Algorithm Engineer_<br>
 - Lead the project of user profile and recommendation system; achieve product recommendation for accurate crowds, bring about a 20% relative increase in CVR; 
