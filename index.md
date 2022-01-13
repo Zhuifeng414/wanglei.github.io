@@ -53,6 +53,7 @@ _International Conference on Quality, Reliability, Risk, Maintenance, and Safety
 ### [**Vulnerability Analysis of High-speed Railway System under Typhoon Disasters in China**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019616534.nh&uniplatform=NZKPT&v=RBO9nE524GDjZRV-qPG4h0w7JFhgpqMy45cwUM885pbxO0kJEJT_WRQizMqvF5Pl)
 **Lei W**<br> 
 _DOI:10.27157/d.cnki.ghzku.2019.001309.(Master Dissertation)_<br>
+[[PPT](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/2.%E7%8E%8B%E9%9B%B7-M201672511-%E7%AD%94%E8%BE%A9PPT_eng.pdf)]
 
 
 ### [**Energy-saving Control Methods for Classrooms in Teaching Buildings**](https://patents.google.com/patent/CN103823440A/en)
