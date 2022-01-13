@@ -56,7 +56,7 @@ _DOI:10.27157/d.cnki.ghzku.2019.001309.(Master Dissertation)_<br>
 [[Abstract](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/Abstract_master_dissertation.pdf)][[PPT](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/2.%E7%8E%8B%E9%9B%B7-M201672511-%E7%AD%94%E8%BE%A9PPT_eng.pdf)]
 
 
-### [**Energy-saving Control Methods for Classrooms in Teaching Buildings**](https://patents.google.com/patent/CN103823440A/en)
+### [**Energy-saving Control Methods for Classrooms in Teaching Buildings(Pending)**](https://patents.google.com/patent/CN103823440A/en)
 Huazhong X, Chang S, Yingchen X, Ren Y, **Lei W**, Guibin C, et al.<br>
 _Patent No.CN103823440A._<br>
 
