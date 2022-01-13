@@ -96,7 +96,7 @@ Teaching Assistant, **Modeling and Simulation** `HUST 2018` <br>
 
 ## Service
 
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
+Bile Reading Instructor of Home Church `Wuhan & Hangzhou & Beijing, China, 2013 - Present` <br>
 
 <!-- ### Footer
 
