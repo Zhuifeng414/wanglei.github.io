@@ -83,9 +83,10 @@ _Algorithm Engineer (Internship)_<br>
 
 ## Honors & Awards
 
-Excellent employees of Wuhan Fulu Network `Jun 2021` <br>
+Excellent Employee of Wuhan Fulu Network `Jun 2021` <br>
 The 2nd Best Team in Alibaba AI Competition `May 2018` <br>
 HUST Master of Engineering Scholarship `Sep 2016 to Jun 2019` <br>
+1st Prize of the Undergraduate Electronic Design Contest, Hubei, China `Sep 2014` <br>
 
 ## Research Experience
 
@@ -96,7 +97,7 @@ Teaching Assistant, **Modeling and Simulation** `HUST 2018` <br>
 
 ## Service
 
-Bile Reading Instructor of Home Church `Wuhan & Hangzhou & Beijing, China, 2013 - Present` <br>
+Bible Reading Instructor of Home Church `Wuhan & Hangzhou & Beijing, China, 2013 - Present` <br>
 
 <!-- ### Footer
 
