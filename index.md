@@ -97,7 +97,7 @@ Teaching Assistant, **Modeling and Simulation** `HUST 2018` <br>
 
 ## Service
 
-Bible Reading Instructor of Home Church `Wuhan & Hangzhou & Beijing, China, 2013 - Present` <br>
+Serve as Bible Reading Instructor of Home Church `Wuhan & Hangzhou & Beijing, China, 2013 - Present` <br>
 
 <!-- ### Footer
 
