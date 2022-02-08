@@ -5,8 +5,8 @@ email:
   url: mailto:leiwangisreal@outlook.com
   text: leiwangisreal@outlook.com
 homepage:
-  url: https://github.com/Zhuifeng414/wanglei.github.io
-  text: wanglei.github.io
+  url: https://github.com/Zhuifeng414/
+  text: github
 ---
 
 # Lei **Wang**
@@ -41,7 +41,7 @@ Wuhan, China
 
 ## English Proficiency
 - GRE: 320+3.5(V152, Q168, W3.5)
-- IELTS: 6.5(L6.5, R6.5, S6.0, W6.0)
+- IELTS: 6.5(L6.5, R6.5, S6.0, W6.0)[the new score will come on Mar 1th]
 
 
 ## Publications
@@ -78,7 +78,7 @@ _Senior Big Data Development Engineer_<br>
 
 _Algorithm Engineer (Internship)_<br>
 - Participate in the anti-cheat of user rating project of TaoPiaoPiao App, propose two rules for filtering malicious scoring ratings;
-- Participate in the payment risk Detection competition held by Alipay and won the top 1%(18/1600)
+- Participate in the Payment Risk Detection Competition held by Alipay and won the top 1%(18/1600)
 
 
 ## Honors & Awards
