@@ -29,7 +29,7 @@ Wuhan, China
 ```
 - Master of Engineering in Artificial Intelligent
 - Advised by [Prof. Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)
-- GPA: 3.3/4.0
+- GPA: [3.3/4.0](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/HUST_transcript.pdf)
 
 ### **Wuhan University of Technology** `2012.9 - 2016.7`
 ```
@@ -37,7 +37,7 @@ Wuhan, China
 ```
 - B.S. in Electrical Engineering & Automation
 - Advised by [Prof. Aihong Tang](http://sa.whut.edu.cn/yjspy/dsdw/202002/t20200222_432832.shtml)
-- GPA: 3.4/4.0
+- GPA: [3.4/4.0](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/WHUT_transcript.pdf)
 
 ## English Proficiency
 - GRE: 320+3.5(V152, Q168, W3.5)
