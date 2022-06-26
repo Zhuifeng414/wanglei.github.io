@@ -4,9 +4,9 @@ title: Lei Wang
 email:
   url: mailto:leiwangisreal@outlook.com
   text: leiwangisreal@outlook.com
-phone:
-  url: 
-  text: (+86) 132-9661-8414
+homepage:
+  url: https://github.com/Zhuifeng414
+  text: Github
 ---
 
 # Lei **Wang**
