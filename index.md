@@ -65,7 +65,7 @@ _Patent No.CN103823440A._<br>
 ### **Wuhan Wepie Network** `2022.4 - present`
 
 _Senior Algorithm Engineer_<br>
-- Design a data warehouse for the project Love in QingTeng, a dating app for highly educated and high-quality youth.
+- Design a data warehouse for the project Love in QingTeng, a dating app for highly educated and high-quality youth;
 - Responsible for researching cutting-edge image algorithms and applying them to business.
 
 ### **Wuhan Fulu Network** `2021.1 - 2022.3`
@@ -78,14 +78,14 @@ _Senior Algorithm Engineer_<br>
 ### **Netease Cloud Music** `2019.7 - 2020.8`
 
 _Senior Big Data Development Engineer_<br>
-- Lead the Potential Songs Mining project; provide 10 potential songs to the operation department every month for off-site promotion, bringing in 150k new users every month
+- Lead the Potential Songs Mining project; provide 10 potential songs to the operation department every month for off-site promotion, bringing in 150k new users every month;
 - Apply DeepWalk algorithm to explore the similarities between user logs, and use hierarchical clustering algorithm to analyze their hierarchical relationships; realize the automatic generation of traffic query code and save human resources 2 man-day/week.
 
 ### **Alibaba** `2018.7 - 2018.9`
 
 _Algorithm Engineer (Internship)_<br>
 - Participate in the anti-cheat of user rating project of TaoPiaoPiao App, propose two rules for filtering malicious scoring ratings;
-- Participate in the Payment Risk Detection Competition held by Alipay and won the top 1%(18/1600)
+- Participate in the Payment Risk Detection Competition held by Alipay and won the top 1%(18/1600).
 
 
 ## Honors & Awards
