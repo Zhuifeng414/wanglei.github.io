@@ -28,8 +28,8 @@ Supported arguments:
 Wuhan, China
 ```
 - Master of Engineering in Artificial Intelligent
-- Advised by [Prof. Min Ouyang](http://aia.hust.edu.cn/info/1126/5728.htm)
-- GPA: [3.3/4.0](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/HUST_transcript_p1.pdf)
+- Advised by [Prof. Min Ouyang](http://aia.hust.edu.cn/info/1214/4845.htm)
+- GPA: [3.38/4.0](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/HUST_transcript_p1.pdf)
 
 ### **Wuhan University of Technology** `2012.9 - 2016.7`
 ```
@@ -37,17 +37,17 @@ Wuhan, China
 ```
 - B.S. in Electrical Engineering & Automation
 - Advised by [Prof. Aihong Tang](http://sa.whut.edu.cn/yjspy/dsdw/202002/t20200222_432832.shtml)
-- GPA: [3.4/4.0](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/WHUT_transcript_p1.pdf)
+- GPA: [3.54/4.0](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/WHUT_transcript_p1.pdf)
 
 ## English Proficiency
 - GRE: 320+3.5(V152, Q168, W3.5)
-- IELTS: 6.5(L6.5, R6.5, S6.0, W6.0)[the new score will come on Mar 1th]
+- IELTS: 6.5(L6.5, R6.5, S6.0, W6.0)
 
 
 ## Publications
 
 ### [**Time-varied Accessibility and Vulnerability Analysis of High-speed Railway System in China.**](https://github.com/Zhuifeng414/wanglei.github.io/blob/master/Publication-WangLei-QR2MSE%202019.pdf)
-**Lei W**,Min O Y, Min X.<br> 
+**Lei W**,Min Ouyang, Min X.<br> 
 _International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering(QR2MSE), Hunan, China, August 6-9_ <br>
 
 ### [**Vulnerability Analysis of High-speed Railway System under Typhoon Disasters in China**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019616534.nh&uniplatform=NZKPT&v=RBO9nE524GDjZRV-qPG4h0w7JFhgpqMy45cwUM885pbxO0kJEJT_WRQizMqvF5Pl)
@@ -62,11 +62,18 @@ _Patent No.CN103823440A._<br>
 
 ## Work Experience
 
-### **Wuhan Fulu Network** `2021.1 - Present`
+### **Wuhan Wepie Network** `2022.4 - present`
 
 _Senior Algorithm Engineer_<br>
-- Lead the project of user profile and recommendation system; achieve product recommendation for accurate crowds, bring about a 20% relative increase in CVR; 
+- Design a data warehouse for the project Love in QingTeng, a dating app for highly educated and high-quality youth.
+- Responsible for researching cutting-edge image algorithms and applying them to business.
+
+### **Wuhan Fulu Network** `2021.1 - 2022.3`
+
+_Senior Algorithm Engineer_<br>
+- Lead the project of User Profile and recommendation system; achieve product recommendation for accurate crowds, bring about a 20% relative increase in CVR; 
 - Develop an intelligent customer service system based on Knowledge Graph, provide consulting services for more than 3k users every day, with satisfaction greater than 80%.
+
 
 ### **Netease Cloud Music** `2019.7 - 2020.8`
 
@@ -101,4 +108,4 @@ Serve as Bible Reading Instructor of Home Church `Wuhan & Hangzhou & Beijing, Ch
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2022 -->
