@@ -67,6 +67,7 @@ _Patent No.CN103823440A._<br>
 _Senior Algorithm Engineer_<br>
 - Design a data warehouse for the project Love in QingTeng, a dating app for highly educated and high-quality youth;
 - Responsible for researching cutting-edge image algorithms and applying them to business.
+- Built a recommendation system and achieved good results (27% relative growth, half a month to complete a quarterly goal).
 
 ### **Wuhan Fulu Network** `2021.1 - 2022.3`
 
