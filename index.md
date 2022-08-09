@@ -62,12 +62,15 @@ _Patent No.CN103823440A._<br>
 
 ## Work Experience
 
-### **Wuhan Wepie Network** `2021.1 - present`
-
+### **Wuhan Wepie Network** `2022.1 - 2022.8`
 _Senior Algorithm Engineer_<br>
 - Design a data warehouse for the project Love in QingTeng, a dating app for highly educated and high-quality youth;
 - Responsible for researching cutting-edge image algorithms and applying them to business.
 - Built a recommendation system and achieved good results (27% relative growth, half a month to complete a quarterly goal).
+
+### **Wuhan Fulu Network** `2021.1 - 2022.4`
+
+_Senior Algorithm Engineer_<br>
 - Lead the project of User Profile and recommendation system; achieve product recommendation for accurate crowds, bring about a 20% relative increase in CVR; 
 - Develop an intelligent customer service system based on Knowledge Graph, provide consulting services for more than 3k users every day, with satisfaction greater than 80%.
 
