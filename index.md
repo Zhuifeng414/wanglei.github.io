@@ -62,7 +62,7 @@ _Patent No.CN103823440A._<br>
 
 ## Work Experience
 
-### **Wuhan Wepie Network** `2022.1 - 2022.8`
+### **Wuhan Wepie Network** `2022.4 - 2022.8`
 _Senior Algorithm Engineer_<br>
 - Design a data warehouse for the project Love in QingTeng, a dating app for highly educated and high-quality youth;
 - Responsible for researching cutting-edge image algorithms and applying them to business.
@@ -75,7 +75,7 @@ _Senior Algorithm Engineer_<br>
 - Develop an intelligent customer service system based on Knowledge Graph, provide consulting services for more than 3k users every day, with satisfaction greater than 80%.
 
 
-### **Netease Cloud Music** `2019.7 - 2021.1`
+### **Netease Cloud Music** `2019.6 - 2020.9`
 
 _Senior Big Data Development Engineer_<br>
 - Lead the Potential Songs Mining project; provide 10 potential songs to the operation department every month for off-site promotion, bringing in 150k new users every month;
@@ -90,7 +90,7 @@ _Algorithm Engineer (Internship)_<br>
 
 ## Honors & Awards
 
-Excellent Employee of Wuhan Wepie Network `Jun 2021` <br>
+Excellent Employee of Wuhan Fulu Network `Jun 2021` <br>
 The 2nd Best Team in Alibaba AI Competition `May 2018` <br>
 HUST Master of Engineering Scholarship `Sep 2016 to Jun 2019` <br>
 1st Prize of the Undergraduate Electronic Design Contest, Hubei, China `Sep 2014` <br>
